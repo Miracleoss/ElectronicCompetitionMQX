@@ -1,2 +1,3 @@
 # ElectronicCompetitionMQX
 2025电赛代码上传
+详见master分支
